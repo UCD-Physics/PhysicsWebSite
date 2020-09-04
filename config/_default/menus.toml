@@ -20,9 +20,9 @@
 
 
 [[main]]
-  name = "Python"
-  url = "courses/python/"
-  weight = 40
+  name = "Pythonold"
+  url = "courses/python_old/"
+  weight = 60
 
 
 [[main]]
@@ -30,6 +30,11 @@
   url = "courses/data_analysis/"
   weight = 50
 
+
+[[main]]
+  name = "Python"
+  url = "python"
+  weight = 40
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -53,38 +58,38 @@
 
 #####  Python menus
 
-[[python]]  # name must match folder name on /courses/
+[[python_old]]  # name must match folder name on /courses/
   name = "Python" 
   weight = 10
-  url = "courses/python/"
+  url = "courses/python_old/"
   identifier = "python"
 
 
-[[python]]
+[[python_old]]
   name = "Get Python"
   weight = 20
   identifier = "python_get"
 
 
-[[python]]
+[[python_old]]
   name = "Python Language"
   weight = 30
   identifier = "python_language"
 
 
-[[python]]
+[[python_old]]
   name = "Jupyter"
   weight = 40
   identifier = "python_jupyter"
 
 
-[[python]]
+[[python_old]]
   name = "Matplotlib"
   weight = 50
   identifier = "python_matplotlib"
 
 
-[[python]]
+[[python_old]]
   name = "Data Acquisiton"
   weight = 60
   identifier = "python_dacq"

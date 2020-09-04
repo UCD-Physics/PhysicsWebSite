@@ -18,6 +18,4 @@ weight: 500
 
 ## Hello pyplot
 
-For information on how to use in Jupyter [see here]({{< ref "courses/python/jupyter/index.md#matplotlib" >}})
-
 
